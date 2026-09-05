@@ -188,6 +188,6 @@ The application is designed to remain lightweight and simple while providing use
 
 If you find HoneyPhoto useful, consider giving the repository a ⭐ on GitHub.
 
----
+## 📸 Screenshots
 
 <img src="Annotation 2026-06-30 08394533.png" alt="HoneyPhoto" width="1000"/>
